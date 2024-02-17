@@ -1,14 +1,15 @@
-Responsive Design
-The building blocks of responsive design
+RESPONSIVE DESIGN
 
-¬In this article we will discuss the main essential components of responsive design, with some links to further information where necessary.
+THE BUILDING BLOCKS OF RESPONSIVE DESIGN
 
-¬For Web developers, it is now fairly common to be called upon to create a Web site or app that changes its user interface depending on the browser or device accessing the site to provide an optimized experience. One approach to this is to create different versions of your site/app for different platforms or browsers and serve them appropriately after detecting which browser or platform is looking at your site. But this is increasingly inefficient: browser sniffing is inherently error prone, and maintaining multiple copies of your code can turn out to be a nightmare.
+In this article we will discuss the main essential components of responsive design.
 
-¬It is usually much better to create a single version of your code which doesn't care about what browser or platform is accessing the site, but instead uses feature tests to find out what code features the browser supports or what the values of certain browser features are, and then adjusts the code appropriately.
+Web developers are increasingly being asked to construct a Web site or app that adapts its user interface according to the browser or device used to access the site to deliver an optimal user experience. One solution is to construct separate versions of your site/app for various platforms or browsers and deliver them accordingly after determining which browser or platform is seeing your site..
 
-¬Responsive design is the term commonly used for describing that approach.
+Create a single version of your code that doesn't care about the browser or platform accessing the site. Use feature tests to determine which browser features are supported and adjust the code accordingly.
 
-¬Responsive design is much more reliable, more maintainable, and more future proof than maintaining multiple copies of your code for different browsers and platforms. With responsive design, you don't get caught in the situation of having to bring out more new site versions as more new browsers and platforms come out, and adjust code as feature support in existing browsers changes.
+Responsive design is the term commonly used for describing that approach.
 
-¬There are disadvantages to responsive-design approach, however. If the content, layout, and functionality need to change greatly for different devices, it may not be such a good approach. Also, taking an existing site and adding responsiveness to it, to make it mobile/tablet friendly, can be a lot more effort than just creating a separate mobile site or app, especially if it is a sprawling enterprise site. Read more about responsive design advantages and disadvantages.
+Responsive design is far more dependable, manageable, and future-proof than having numerous versions of your code for various browsers and systems. With responsive design, you don't have to keep releasing new site versions as new browsers and platforms are released, or adjusting code as feature support in existing browsers changes.
+
+There are several drawbacks to the responsive-design approach, however. If the content, layout, and functionality must change significantly for multiple devices, this may not be the best strategy. Also, adding responsiveness to an existing site to make it mobile/tablet friendly might take a lot more effort than just establishing a distinct mobile site or app, especially if it is a large business site. Read more about responsive design's benefits and drawbacks.
