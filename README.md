@@ -1,2 +1,1 @@
-# alu-web_front_end
-html,css 
+# ALU-WEB_FRONT_END
