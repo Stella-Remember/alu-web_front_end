@@ -1,7 +1,0 @@
-@function sort-list($list_to_sort) {
-    
-    $sorted-list: sort($list_to_sort);
-    
-    
-    @debug $sorted-list;
-}
